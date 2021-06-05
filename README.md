@@ -1,7 +1,7 @@
 # idtc-rpaday1
-**Fork this Repo.
-Then proceed with the task.
-**
+**Fork this Repo.**
+**Then proceed with the task.**
+
 
 Day 1 Challenge: Sentiment Analysis from Airline_Review
 
